@@ -1,0 +1,36 @@
+.gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;;
+}
+
+body{
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+.title{
+    text-align: center;
+    background-color: red;
+}
+
+/* *{
+    border: 2px solid red;
+} */
+
+.recipe-list{
+}
+.recipe-link{
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+}
+
+.main-menu-button{
+    text-decoration: none;
+}
+
+.ingredient-title{
+    padding: 0;
+}
